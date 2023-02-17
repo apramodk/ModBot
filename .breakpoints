@@ -1,0 +1,28 @@
+{
+  "files": {
+    "auth.py": [
+      {
+        "id": "e5ed97d9-9dde-4b4e-8b65-b8e7d29f773f",
+        "line": 1,
+        "version": 827,
+        "index": 0
+      }
+    ],
+    "srcCPP/connect4.cpp": [
+      {
+        "id": "ee24171b-1b1c-4eb3-b72f-4d43bd2f94e3",
+        "line": 28,
+        "version": 4568,
+        "index": 464
+      }
+    ],
+    "srcCPP/connect4.hpp": [
+      {
+        "id": "22859045-9619-40e5-859d-5774441e5607",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ]
+  }
+}
